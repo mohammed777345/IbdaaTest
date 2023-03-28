@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="pageBackground" format="reference" />
+    <attr name="textSubheader" format="reference" />
+    <attr name="textLarge" format="reference" />
+    <attr name="textRegular" format="reference" />
+    <attr name="whiteBackground" format="reference" />
+    <attr name="button" format="reference" />
+    <attr name="spinner" format="reference" />
+
+
+    <declare-styleable name="LovelyView">
+        <attr name="leftLabel" format="string" />
+        <attr name="rightLabel" format="string" />
+        <attr name="leftLabelStyle" format="reference" />
+        <attr name="rightLabelStyle" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="QuantityView">
+        <attr name="minQuantity" format="integer" />
+        <attr name="maxQuantity" format="integer" />
+        <attr name="startQuantity" format="integer" />
+        <attr name="deltaQuantity" format="integer" />
+        <attr name="isOutlined" format="boolean" />
+        <attr name="colorOfQuantity" format="color" />
+        <attr name="colorOfText" format="color" />
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ibda3 test</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+
+
+    <!-- custome Theme-->
+    <string name="settings_text_select_theme">Select Theme:</string>
+    <string name="settings_text_credentials">Credentials</string>
+    <string name="settings_text_username_hint">username</string>
+    <string name="settings_text_password_hint">password</string>
+    <string name="settings_text_sync_automatically">Sync automatically</string>
+    <string name="settings_text_location">Location</string>
+    <string name="settings_text_state_on">On</string>
+    <string name="settings_text_state_off">Off</string>
+    <string name="text_custom_view">Custom View</string>
+    <string name="text_recycler">Recycler View</string>
+    <string name="text_show_notification">Sow Notification</string>
+    <string name="text_show_toast">Show Toast</string>
+    <string name="text_show_snack">Show Snack Bar</string>
+
+    <string name="title_activity_language">language</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
